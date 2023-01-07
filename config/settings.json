@@ -20,7 +20,7 @@
     "paymentGateway": [
         "stripe"
     ],
-    "databaseConnectionString": "mongodb+srv://brianmoreno757:jhonmoreno@cluster0.hvffkos.mongodb.net/?retryWrites=true&w=majority",
+    "databaseConnectionString": "mongodb://mongodb:27017/expresscart",
     "theme": "Cloth",
     "trackStock": false,
     "orderHook": "",
